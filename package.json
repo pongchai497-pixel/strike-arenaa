@@ -1,0 +1,13 @@
+{
+  "name": "wasteland-coop-survival",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-based 3D co-op survival game prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
